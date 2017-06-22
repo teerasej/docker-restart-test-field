@@ -8,3 +8,7 @@ A project contains of possible restart policy
 - `on-failure`
 - `unless-stopped`
 - `always`
+
+## Reference
+
+[Docker's Restart Policy](https://blog.codeship.com/ensuring-containers-are-always-running-with-dockers-restart-policy/)
